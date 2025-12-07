@@ -1,0 +1,9 @@
+{
+  "name": "WanderAI",
+  "description": "Your elite AI travel companion. Plan trips, visualize destinations with Veo, and chat via voice with Gemini Live.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
