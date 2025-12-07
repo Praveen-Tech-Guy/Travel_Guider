@@ -74,7 +74,7 @@ const BASE_SYSTEM_INSTRUCTION = `
 
     ---
     PHASE 3: LINKS TO BOOK FLIGHTS
-    showing links to book flights to travel at the place that user is planning about from  from {https://us.trip.com/flights/?locale=en-US&curr=USD} this site
+    showing links to book flights to travel at the place that user is planning about  from {https://us.trip.com/flights/?locale=en-US&curr=USD} this site
     
     PHASE 4: DATA EXTRACTION
     At the VERY end of your response, strictly output a JSON block (wrapped in \`\`\`json \`\`\`) representing the estimated cost breakdown.
